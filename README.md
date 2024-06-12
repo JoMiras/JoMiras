@@ -1,4 +1,24 @@
-## Hi there 👋
+<h1>~ Hiya! ~</h1>
+<p>My name is Jonah and welcome to my page!</p>
+
+<p><strong>Some personal projects that I am currently working on are:</strong></p>
+<ul>
+<li>♜♞ ChessMess ♜♞</li>
+<li>🐾 PetFriendX 🐾</li>
+  <li>💧 HydroHomie 💧 </li>
+</ul>
+
+<p>I also have led projects in an AGILE group setting. Those projects are the following:</p>
+<ul>
+  <li>🌐 StudySphere 🌐</li>
+  <li>🖊️ Pen-Pals 🖊️</li>
+</ul>
+
+<p>Thank you for your time!~</p>
+
+<p><em>Jonah Mirasol</em></p>
+
+
 
 <!--
 **JoMiras/JoMiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
