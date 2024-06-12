@@ -14,7 +14,7 @@
   <li>🖊️ Pen-Pals 🖊️</li>
 </ul>
 
-<p>Thank you for your time!~</p>
+<p>The descriptions will be found within their respective repositories. <br>Thank you for your time!~</p>
 
 <p><em>Jonah Mirasol</em></p>
 
