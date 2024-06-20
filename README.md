@@ -15,8 +15,11 @@
 </ul>
 
 <p>The descriptions will be found within their respective repositories. <br>Thank you for your time!~</p>
-
 <p><em>Jonah Mirasol</em></p>
+
+<a href='https://ko-fi.com/pythias1998' target='_blank'>
+  <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy me a Coffee' style='background-color:#09ebb3; border-color:#09ebb3;'>
+</a>
 
 
 
