@@ -8,7 +8,7 @@
   <li>💧 HydroHomie 💧 </li>
 </ul>
 
-<p>I also have led projects in an AGILE group setting. Those projects are the following:</p>
+<p>I also have led projects as a SCRUM Master in an AGILE group setting. Those projects are the following:</p>
 <ul>
   <li>🌐 StudySphere 🌐</li>
   <li>🖊️ Pen-Pals 🖊️</li>
