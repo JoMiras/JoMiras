@@ -6,6 +6,7 @@
 <li>♜♞ ChessMess ♜♞</li>
 <li>🐾 PetFriendX 🐾</li>
   <li>💧 HydroHomie 💧 </li>
+  <li>Tetris</li>
 </ul>
 
 <p>I also have led projects as a SCRUM Master in an AGILE group setting. Those projects are the following:</p>
