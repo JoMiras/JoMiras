@@ -1,5 +1,5 @@
 <h1>~ Hiya! ~</h1>
-<p>My name is Jonah and welcome to my page!</p>
+<p>❣️ Welcome to my page ❣️　</p>
 
 <p><strong>Some personal projects that I am currently working on are:</strong></p>
 <ul>
