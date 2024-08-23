@@ -2,15 +2,16 @@
 <p>❣️ Welcome to my page ❣️　</p>
 
 <p><strong>Some personal projects that I am currently working on are:</strong></p>
-<ul>
+<ul style="text-align: center;">
 <li>♜♞ ChessMess ♜♞</li>
 <li>🐾 PetFriendX 🐾</li>
   <li>💧 HydroHomie 💧 </li>
   <li>Tetris</li>
 </ul>
 
+
 <p>I also have led projects as a SCRUM Master in an AGILE group setting. Those projects are the following:</p>
-<ul>
+<ul style="text-align: center;">
   <li>🌐 StudySphere 🌐</li>
   <li>🖊️ Pen-Pals 🖊️</li>
 </ul>
